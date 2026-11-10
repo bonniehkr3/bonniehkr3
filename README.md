@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=bonniehkr3&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126158218%3Fu%3D0d84975616440b4496815f799af2e9632ed23d79%26v%3D4" alt="bonniehkr3 hero visual" />
 </p>
 
-<p align="center"><b>Bonniehkr3</b> · Frontend or full-stack engineer<br/><sub>&gt; System Status: Compromised
+<p align="center"><b>Bonniehkr3</b> · CYBER SECURITY ETHICAL HACKER <br/><sub>&gt; System Status: Compromised
 I hunt Zero-Days and build arsenals. Don't run my code unless you're ready for the consequences. ☠️🐍</sub></p>
 
 <p align="center"><a href="https://github.com/bonniehkr3">GitHub</a> · <a href="https://bonnieacademy.netlify.app/">Website</a></p>
